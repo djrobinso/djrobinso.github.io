@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Setting up Jekyll blog"
+title: "Setting up Jekyll Blog"
 subtitle: "Trying out Jekyll tutorial on setting up on Github pages"
 background: "/img/posts/SettingUpJekyll/labtop-code.jpg"
 date: "2022-02-06 16:02:00 -0500"
